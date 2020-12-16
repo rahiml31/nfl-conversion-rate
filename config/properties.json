@@ -1,0 +1,5 @@
+{
+  "database_name": ":memory:",
+  "table_name": "play_data",
+  "data_columns": ["OffenseTeam", "Down", "ToGo", "SeriesFirstDown", "Yards", "Formation", "PlayType", "IsRush", "IsPass", "IsTouchdown", "YardLineFixed"]
+}
